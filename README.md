@@ -5,3 +5,7 @@ A escolha desse tema surgiu da percepção de que existem poucos espaços dedica
 Nosso principal objetivo com o AskPets é facilitar o acesso a orientações e dicas sobre cuidados gerais ou especializados para diferentes tipos de animais domésticos, promovendo a troca de conhecimento entre os usuários.
 
     Este projeto foi desenvolvido em 2022 como Trabalho de Conclusão de Curso Técnico em Informática para Internet integrado ao Ensino Médio, e está sendo disponibilizado aqui no GitHub para fins de estudo e referência.
+
+
+[Banner Askpets .pdf](https://github.com/user-attachments/files/21335275/Banner.Askpets.pdf)
+
